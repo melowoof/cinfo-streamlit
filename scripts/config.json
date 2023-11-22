@@ -1,0 +1,10 @@
+{
+    "mqtt": {
+      "broker": "test.mosquitto.org",
+      "port": 1883,
+      "QOS": 0,
+      "topic": "ax_inflate",
+      "payload": "hello world",
+      "payload_path": "scripts/payload.json"
+    }
+  }

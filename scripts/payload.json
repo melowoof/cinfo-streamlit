@@ -1,0 +1,8 @@
+{
+  "command": "stop",
+  "param": {
+    "algo": 50,
+    "squareSize": 10,
+    "spaceBetween": 10
+  }
+}
